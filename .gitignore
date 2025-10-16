@@ -1,0 +1,73 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environment
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# PyCharm
+.idea/
+
+# VS Code
+.vscode/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# PyQt
+*.ui.py
+
+# Model Files (Large files - download separately)
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+
+# Config files with sensitive paths (optional - may want to track template)
+# annotator_config.txt
+
+# Output/Test Data
+output/
+test_output/
+temp/
+
+# OS
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+
+# SAM2 repository (if cloned locally)
+segment-anything-2/
+
+# Cache
+.cache/
+*.cache
