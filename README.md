@@ -3,7 +3,7 @@
 A powerful desktop application for interactive image segmentation using Meta's Segment Anything Model 2 (SAM2). This tool provides an intuitive interface for creating high-quality segmentation masks with support for point-based prompts, brush painting, and manual editing.
 
 
-## �️ GUI Preview
+## GUI Preview
 
 <p align="center">
   <img src="assets/GUI.gif" alt="SAM2 Annotator GUI Demo" width="100%">
