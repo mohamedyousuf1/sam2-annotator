@@ -7,14 +7,14 @@ A powerful desktop application for interactive image segmentation using Meta's S
 <!-- GitHub renders HTML5 <video> for MP4 sources. WMV is not supported. -->
 <video src="assets/video.mp4" width="100%" controls>
    Sorry, your browser doesn't support embedded videos.
-   <a href="assets/video.mp4">Download the MP4</a> instead.
+   <a href="[assets/video.mp4](https://github.com/mohamedyousuf1/sam2-annotator/blob/master/assets/Video.mp4)">Download the MP4</a> instead.
 </video>
 
 If the video doesn't appear above, try:
 
 - Direct raw link (works in most browsers):
-   https://raw.githubusercontent.com/mohamedyousuf1/sam2-annotator/master/assets/video.mp4
-
+[   https://raw.githubusercontent.com/mohamedyousuf1/sam2-annotator/master/assets/video.mp4
+](https://github.com/mohamedyousuf1/sam2-annotator/blob/master/assets/Video.mp4)
 
 ## ✨ Features
 
