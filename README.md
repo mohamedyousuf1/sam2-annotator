@@ -50,7 +50,7 @@ Note: Place a demo video at `assets/demo.mp4` (H.264/AAC encoded). GitHub doesn'
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/mohamedyousuf1/sam2-annotator/tree/master
 cd Annotator
 ```
 
