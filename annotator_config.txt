@@ -1,0 +1,2 @@
+E:\Segmentation\Few_show_seg\data\prepared_fewshot\support\images
+E:\Segmentation\Few_show_seg\support\masks
