@@ -4,7 +4,7 @@ A powerful desktop application for interactive image segmentation using Meta's S
 
 ## 📹 Video Tutorial
 
-_[Video tutorial will be added here]_
+<video src="assets\Video.wmv" width="1280" height="720" controls></video>
 
 ---
 
