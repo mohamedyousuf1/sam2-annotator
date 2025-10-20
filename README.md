@@ -2,18 +2,14 @@
 
 A powerful desktop application for interactive image segmentation using Meta's Segment Anything Model 2 (SAM2). This tool provides an intuitive interface for creating high-quality segmentation masks with support for point-based prompts, brush painting, and manual editing.
 
-## 📹 Video Tutorial
 
-<!-- GitHub renders HTML5 <video> for MP4 sources. WMV is not supported. -->
-<video src="assets/video.mp4" width="100%" controls>
-   Sorry, your browser doesn't support embedded videos.
-   <a href="assets/video.mp4">Download the MP4</a> instead.
-</video>
+## �️ GUI Preview
 
-If the video doesn't appear above, try:
+<p align="center">
+  <img src="assets/GUI.gif" alt="SAM2 Annotator GUI Demo" width="100%">
+</p>
 
-- Direct raw link (works in most browsers):
-   https://raw.githubusercontent.com/mohamedyousuf1/sam2-annotator/master/assets/video.mp4
+*Animated demo of the SAM2 Segmentation Annotator interface and workflow.*
 
 
 ## ✨ Features
