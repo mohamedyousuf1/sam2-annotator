@@ -10,29 +10,11 @@ A powerful desktop application for interactive image segmentation using Meta's S
    <a href="assets/video.mp4">Download the MP4</a> instead.
 </video>
 
-If the video doesn't appear above, try one of these options:
+If the video doesn't appear above, try:
 
 - Direct raw link (works in most browsers):
-   https://raw.githubusercontent.com/mohamedyousuf1/sam2-annotator/master/assets/demo.mp4
-- Clickable thumbnail (GIF) that links to the MP4:
+   https://raw.githubusercontent.com/mohamedyousuf1/sam2-annotator/master/assets/video.mp4
 
-   [![Watch the demo (GIF)](assets/demo.gif)](https://raw.githubusercontent.com/mohamedyousuf1/sam2-annotator/master/assets/demo.mp4)
-
-- Upload the MP4 to a GitHub Issue (drag-and-drop), then use the generated `user-images.githubusercontent.com` URL in the README for maximum compatibility.
-- Host the video on YouTube/Vimeo and link to it from the README using a thumbnail:
-
-   [![Watch on YouTube](assets/youtube-thumb.png)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
-
-Notes:
-- Place an MP4 at `assets/demo.mp4` encoded with H.264 (video) + AAC (audio). GitHub does not play `.wmv` files.
-- For a lightweight preview, you can also include `assets/demo.gif` (short loop). To create one from MP4:
-
-   ```powershell
-   # Requires ffmpeg installed and on PATH
-   ffmpeg -i assets/demo.mp4 -vf "fps=12,scale=960:-1:flags=lanczos" -loop 0 assets/demo.gif
-   ```
-
----
 
 ## ✨ Features
 
