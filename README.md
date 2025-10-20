@@ -99,7 +99,7 @@ Place both files in the `Annotator` directory.
 
 ### 6. Update Configuration
 
-Edit `config.py` to set the correct paths for your model files:
+Edit `config.py` to set the correct paths for your model files, but edit it with your own paths for the model weights and yaml files:
 
 ```python
 MODEL_CHECKPOINT_PATH = r"E:\Segmentation\Annotator\sam2.1_hiera_large.pt"
