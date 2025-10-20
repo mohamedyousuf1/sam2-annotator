@@ -92,7 +92,7 @@ cd ..
 
 Download the model checkpoint and configuration file:
 
-1. **Model Checkpoint**: Download `sam2.1_hiera_large.pt` from the [SAM2 releases](https://github.com/facebookresearch/segment-anything-2/releases)
+1. **Model Checkpoint**: Download `sam2.1_hiera_large.pt` from the [SAM2 releases](https://github.com/facebookresearch/sam2)
 2. **Config File**: Download `sam2.1_hiera_l.yaml` from the SAM2 repository
 
 Place both files in the `Annotator` directory.
