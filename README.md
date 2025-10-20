@@ -4,7 +4,16 @@ A powerful desktop application for interactive image segmentation using Meta's S
 
 ## 📹 Video Tutorial
 
-<video src="assets\Video.wmv" width="1280" height="720" controls></video>
+<!-- GitHub renders HTML5 <video> for MP4 sources. WMV is not supported. -->
+<video src="assets/demo.mp4" width="100%" controls>
+   Sorry, your browser doesn't support embedded videos. You can
+   <a href="assets/demo.mp4">download the video</a> instead.
+   <!-- Fallbacks are ignored by GitHub markdown renderers but help elsewhere. -->
+</video>
+
+If the video doesn't appear above, use this direct link: [assets/demo.mp4](assets/demo.mp4).
+
+Note: Place a demo video at `assets/demo.mp4` (H.264/AAC encoded). GitHub doesn't play `.wmv` files.
 
 ---
 
