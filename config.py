@@ -11,7 +11,9 @@ MODEL_CONFIG = r"E:\Segmentation\Annotator\sam2.1_hiera_l.yaml"
 DEVICE = "cuda" if torch.cuda.is_available() else "cpu"
 
 # --- Application Configuration ---
-CONFIG_FILE = r"E:\Segmentation\Annotator\annotator_config.txt"  # File to store last used folders
+# Store config file next to this module to avoid hard-coded absolute paths
+_HERE = os.path.dirname(os.path.abspath(__file__))
+CONFIG_FILE = os.path.join(_HERE, "annotator_config.txt")  # File to store last used folders
 
 # --- UI Configuration ---
 DEFAULT_BRUSH_SIZE = 30  # Default brush/eraser radius in image pixels
